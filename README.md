@@ -1,4 +1,4 @@
-# Na-ve-Bayes-Text-Classification
+# Naive-Bayes-Text-Classification
 
 In this project, I implemented a Naïve Bayes classifier for classifying book reviews as positive or
 negative. The dataset is a collection of Amazon user reviews about a book which is added as "reviews_train.csv". This project was done as my homework for the Data Mining course under supervision of Dr. Ehsan Nazerfard.
